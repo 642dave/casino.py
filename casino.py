@@ -23,6 +23,7 @@ oddelovac = "=" * 80
 print(oddelovac)
 print("VITEJ VE HRE CASINO,".center(len(oddelovac)))
 print("STATNYCH PET".center(len(oddelovac)))
+print("--Hru muzes kdykoliv ukoncit napsanim slova konec--".center(len(oddelovac)))
 print(oddelovac)
 tvoje_tipovana_cisla = list()
 vylosovana_cisla_kasina = list()
